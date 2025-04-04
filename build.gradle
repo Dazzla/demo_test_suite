@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.seleniumhq.selenium:selenium-java:4.11.0'
+    implementation 'org.junit.jupiter:junit-jupiter:5.11.0-M1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.11.0-M1'
+    implementation 'io.cucumber:cucumber-java:7.14.0'
+    implementation 'io.cucumber:cucumber-junit-platform-engine:7.14.0'
+
+    testImplementation 'io.cucumber:cucumber-picocontainer:7.14.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.3'
+
+    testImplementation 'io.rest-assured:rest-assured:5.3.0'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "PASSED", "FAILED", "SKIPPED"
+    }
+    systemProperty "cucumber.publish.quiet", "true" // Optional: Reduces console output
+}
