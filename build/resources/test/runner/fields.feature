@@ -16,11 +16,6 @@ Feature: Form Testing
     And the slider is centred
     And tbe button is a Submit button
     And there is a link to the index page
-
-  Scenario: Submit web form successfully
-    Given I am on the form submission page
-    When I submit the form with valid data
-    Then I see a confirmation message
       
 
 

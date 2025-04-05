@@ -39,7 +39,7 @@ public class FormTestingSteps extends BaseTest{
 
     @Before
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "/opt/homebrew/bin/chromedriver"); //Make sure to configure
+        System.setProperty("webdriver.chrome.driver", "/opt/homebrew/bin/chromedriver");
         driver = new ChromeDriver();
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     }

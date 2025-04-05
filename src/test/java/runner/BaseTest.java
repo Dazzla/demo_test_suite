@@ -17,9 +17,9 @@ public class BaseTest {
 
     @BeforeAll
     void setUp(WebDriverParameterResolver parameterResolver) {
-        this.driver = WebDriverFactory.createWebDriver();  // Or webDriverFactory.createWebDriver()
+    this.driver = WebDriverFactory.createWebDriver();
         parameterResolver.setDriver(driver);
-    } // <-- Added missing closing brace
+    }
 
 
     @AfterAll
