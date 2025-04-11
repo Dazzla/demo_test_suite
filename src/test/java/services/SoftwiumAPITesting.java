@@ -1,17 +1,23 @@
 package services;
 
+import groovy.util.logging.Slf4j;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
+import io.restassured.response.ValidatableResponse;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@Slf4j
 class SoftwiumAPITesting {
 
     private static final String BASE_URL = "https://softwium.com/api";
+    private static final Logger log = LoggerFactory.getLogger(SoftwiumAPITesting.class);
 
     @BeforeAll
     static void setup() {
@@ -37,12 +43,14 @@ class SoftwiumAPITesting {
                 .body("size()", equalTo(170));
 
         response.prettyPrint();
+        log.info(String.valueOf(response));
+
     }
 
     @Test
     void testGetCurrencyById() {
 
-        RestAssured
+       RestAssured
                 .given()
                 .contentType(ContentType.JSON)
                 .when()
@@ -55,7 +63,6 @@ class SoftwiumAPITesting {
     @Test
     void testCreateNewBook() {
 
-
         RestAssured
                 .given()
                 .queryParam("format", "json")
@@ -63,7 +70,6 @@ class SoftwiumAPITesting {
                 .post("books")
                 .then()
                 .statusCode(201);
-
 
     }
 
