@@ -1,0 +1,306 @@
+{
+	"info": {
+		"_postman_id": "47660f2b-85bc-4e53-a420-4d81ff8e984b",
+		"name": "Softwium",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "135240"
+	},
+	"item": [
+		{
+			"name": "Get all currencies",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const expectedResponseLength = 170;",
+							"pm.test(\"Get currency list response is not empty\", () => {",
+							"    const jsonData = pm.response.json();",
+							"    console.log(\"*****************\");",
+							"    console.log(jsonData);",
+							"    const responseLength = jsonData.length;",
+							"    pm.expect(responseLength).to.be.above(expectedResponseLength-1); //0-based arrays",
+							"});",
+							"",
+							"",
+							"",
+							"",
+							"        "
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{currency_service}}",
+					"host": [
+						"{{currency_service}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get currency",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Array items have the correct keys\", ()=> {",
+							"    let currencyRecord = pm.response.json()",
+							"    console.log(\"*****************\")",
+							"    console.log(currencyRecord)",
+							"    pm.expect(currencyRecord).to.have.all.keys(\"id\", \"code\", \"name\")",
+							"}",
+							")"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{currency_service}}/50",
+					"host": [
+						"{{currency_service}}"
+					],
+					"path": [
+						"50"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get books",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"        pm.response.to.have.status(200);",
+							"    }",
+							")",
+							"",
+							"pm.test(\"Number of items is 80\", ()=> {",
+							"    const jsonData = pm.response.json();",
+							"    pm.expect(jsonData.length).to.eq(80);",
+							"    }",
+							")"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{SERVICE_ROOT}}/books",
+					"host": [
+						"{{SERVICE_ROOT}}"
+					],
+					"path": [
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Response code is 201\", () => {",
+							"    pm.response.to.have.status(201); // Check if the response status code is 201",
+							"    }",
+							")",
+							"",
+							"pm.test(\"ID is 81\", ()=> {",
+							"    pm.expect(pm.response.json().id).to.eql(81) // Check if the id in the response body is 81",
+							"}",
+							")"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{SERVICE_ROOT}}/books",
+					"host": [
+						"{{SERVICE_ROOT}}"
+					],
+					"path": [
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Response code is 200\", () => {",
+							"    pm.response.to.have.status(200); // Check if the response status code is 201",
+							"    }",
+							")"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{SERVICE_ROOT}}/books/23",
+					"host": [
+						"{{SERVICE_ROOT}}"
+					],
+					"path": [
+						"books",
+						"23"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\",  () => {",
+							"    pm.response.to.have.status(200); ",
+							"    }",
+							")",
+							"",
+							"pm.test(\"Verify response title value\", () => {",
+							"    pm.expect(pm.response.json().title).to.eql(\"Java Persistence with Hibernate II\");",
+							"",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"id\": 23,\n    \"title\": \"Java Persistence with Hibernate II\",\n    \"isbn\": \"1932394885\",\n    \"pageCount\": 880,\n    \"authors\": [\n        \"Christian Bauer\",\n        \"Gavin King\"\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{SERVICE_ROOT}}/books/23",
+					"host": [
+						"{{SERVICE_ROOT}}"
+					],
+					"path": [
+						"books",
+						"23"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Patch book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\",  () => {",
+							"    pm.response.to.have.status(200); ",
+							"    }",
+							")",
+							"",
+							"pm.test(\"Verify response title value\", () => {",
+							"    pm.expect(pm.response.json().title).to.eql(\"Java Persistence with Hibernate II\");",
+							"",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"title\": \"Java Persistence with Hibernate II\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{SERVICE_ROOT}}/books/23",
+					"host": [
+						"{{SERVICE_ROOT}}"
+					],
+					"path": [
+						"books",
+						"23"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
