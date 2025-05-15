@@ -14,7 +14,6 @@ public class BaseTest {
 
     private WebDriver driver;
 
-
     @BeforeAll
     void setUp(WebDriverParameterResolver parameterResolver) {
     this.driver = WebDriverFactory.createWebDriver();
