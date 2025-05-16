@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="services.SoftwiumAPITesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-10T07:20:34" hostname="Mac.lan" time="0.665">
+<testsuite name="services.SoftwiumAPITesting" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-16T18:37:59" hostname="Mac.lan" time="1.0">
   <properties/>
-  <testcase name="testGetAllCurrencies()" classname="services.SoftwiumAPITesting" time="0.665"/>
+  <testcase name="testGetCurrencyById()" classname="services.SoftwiumAPITesting" time="0.658"/>
+  <testcase name="testGetAllCurrencies()" classname="services.SoftwiumAPITesting" time="0.109"/>
+  <testcase name="testDeleteBook()" classname="services.SoftwiumAPITesting" time="0.114"/>
+  <testcase name="testCreateNewBook()" classname="services.SoftwiumAPITesting" time="0.119"/>
   <system-out><![CDATA[[
     {
         "id": 1,
@@ -854,7 +857,7 @@
         "name": "Zimbabwean Dollar"
     }
 ]
-08:20:35.314 [Test worker] INFO services.SoftwiumAPITesting -- io.restassured.internal.RestAssuredResponseImpl@193eb1ba
+19:38:00.712 [Test worker] INFO services.SoftwiumAPITesting -- io.restassured.internal.RestAssuredResponseImpl@6424e613
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

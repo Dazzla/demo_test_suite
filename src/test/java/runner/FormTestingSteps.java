@@ -1,11 +1,13 @@
 package runner;
 
 import WebDriverHelpers.SharedDriver;
+import WebDriverHelpers.WebDriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.*;
 import pages.SubmitFormPage;
 
@@ -39,9 +41,9 @@ public class FormTestingSteps extends BaseTest{
 
     @Before
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "/opt/homebrew/bin/chromedriver");
-        driver = new ChromeDriver();
+        driver = WebDriverFactory.createWebDriver(); // ✅ This uses headless options
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
     }
 
 

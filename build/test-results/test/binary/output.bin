@@ -1,853 +1,2223 @@
-[
-    {
-        "id": 1,
-        "code": "AED",
-.        "name": "United Arab Emirates Dirham"
-    },
-    {
-        "id": 2,
-        "code": "AFN",
-!        "name": "Afghan Afghani"
-    },
-    {
-        "id": 3,
-        "code": "ALL",
-        "name": "Albanian Lek"
-    },
-    {
-        "id": 4,
-        "code": "AMD",
-         "name": "Armenian Dram"
-    },
-    {
-        "id": 5,
-        "code": "ANG",
-0        "name": "Netherlands Antillean Guilder"
-    },
-    {
-        "id": 6,
-        "code": "AOA",
-!        "name": "Angolan Kwanza"
-    },
-    {
-        "id": 7,
-        "code": "ARS",
-!        "name": "Argentine Peso"
-    },
-    {
-        "id": 8,
-        "code": "AUD",
-$        "name": "Australian Dollar"
-    },
-    {
-        "id": 9,
-        "code": "AWG",
-         "name": "Aruban Florin"
-    },
-    {
-        "id": 10,
-        "code": "AZN",
-$        "name": "Azerbaijani Manat"
-    },
-    {
-        "id": 11,
-        "code": "BAM",
-6        "name": "Bosnia-Herzegovina Convertible Mark"
-    },
-    {
-        "id": 12,
-        "code": "BBD",
-#        "name": "Barbadian Dollar"
-    },
-    {
-        "id": 13,
-        "code": "BDT",
-#        "name": "Bangladeshi Taka"
-    },
-    {
-        "id": 14,
-        "code": "BGN",
-         "name": "Bulgarian Lev"
-    },
-    {
-        "id": 15,
-        "code": "BHD",
-!        "name": "Bahraini Dinar"
-    },
-    {
-        "id": 16,
-        "code": "BIF",
-"        "name": "Burundian Franc"
-    },
-    {
-        "id": 17,
-        "code": "BMD",
-"        "name": "Bermudan Dollar"
-    },
-    {
-        "id": 18,
-        "code": "BND",
-         "name": "Brunei Dollar"
-    },
-    {
-        "id": 19,
-        "code": "BOB",
-%        "name": "Bolivian Boliviano"
-    },
-    {
-        "id": 20,
-        "code": "BRL",
-!        "name": "Brazilian Real"
-    },
-    {
-        "id": 21,
-        "code": "BSD",
-"        "name": "Bahamian Dollar"
-    },
-    {
-        "id": 22,
-        "code": "BTC",
-        "name": "Bitcoin"
-    },
-    {
-        "id": 23,
-        "code": "BTN",
-%        "name": "Bhutanese Ngultrum"
-    },
-    {
-        "id": 24,
-        "code": "BWP",
-!        "name": "Botswanan Pula"
-    },
-    {
-        "id": 25,
-        "code": "BYN",
-#        "name": "Belarusian Ruble"
-    },
-    {
-        "id": 26,
-        "code": "BZD",
-         "name": "Belize Dollar"
-    },
-    {
-        "id": 27,
-        "code": "CAD",
-"        "name": "Canadian Dollar"
-    },
-    {
-        "id": 28,
-        "code": "CDF",
-"        "name": "Congolese Franc"
-    },
-    {
-        "id": 29,
-        "code": "CHF",
-        "name": "Swiss Franc"
-    },
-    {
-        "id": 30,
-        "code": "CLF",
-/        "name": "Chilean Unit of Account (UF)"
-    },
-    {
-        "id": 31,
-        "code": "CLP",
-        "name": "Chilean Peso"
-    },
-    {
-        "id": 32,
-        "code": "CNH",
-*        "name": "Chinese Yuan (Offshore)"
-    },
-    {
-        "id": 33,
-        "code": "CNY",
-        "name": "Chinese Yuan"
-    },
-    {
-        "id": 34,
-        "code": "COP",
-!        "name": "Colombian Peso"
-    },
-    {
-        "id": 35,
-        "code": "CRC",
-%        "name": "Costa Rican ColÃ³n"
-    },
-    {
-        "id": 36,
-        "code": "CUC",
-)        "name": "Cuban Convertible Peso"
-    },
-    {
-        "id": 37,
-        "code": "CUP",
-        "name": "Cuban Peso"
-    },
-    {
-        "id": 38,
-        "code": "CVE",
-&        "name": "Cape Verdean Escudo"
-    },
-    {
-        "id": 39,
-        "code": "CZK",
-(        "name": "Czech Republic Koruna"
-    },
-    {
-        "id": 40,
-        "code": "DJF",
-#        "name": "Djiboutian Franc"
-    },
-    {
-        "id": 41,
-        "code": "DKK",
-        "name": "Danish Krone"
-    },
-    {
-        "id": 42,
-        "code": "DOP",
-!        "name": "Dominican Peso"
-    },
-    {
-        "id": 43,
-        "code": "DZD",
-!        "name": "Algerian Dinar"
-    },
-    {
-        "id": 44,
-        "code": "EGP",
-!        "name": "Egyptian Pound"
-    },
-    {
-        "id": 45,
-        "code": "ERN",
-!        "name": "Eritrean Nakfa"
-    },
-    {
-        "id": 46,
-        "code": "ETB",
-!        "name": "Ethiopian Birr"
-    },
-    {
-        "id": 47,
-        "code": "EUR",
-        "name": "Euro"
-    },
-    {
-        "id": 48,
-        "code": "FJD",
-         "name": "Fijian Dollar"
-    },
-    {
-        "id": 49,
-        "code": "FKP",
-)        "name": "Falkland Islands Pound"
-    },
-    {
-        "id": 50,
-        "code": "GBP",
-)        "name": "British Pound Sterling"
-    },
-    {
-        "id": 51,
-        "code": "GEL",
-         "name": "Georgian Lari"
-    },
-    {
-        "id": 52,
-        "code": "GGP",
-!        "name": "Guernsey Pound"
-    },
-    {
-        "id": 53,
-        "code": "GHS",
-         "name": "Ghanaian Cedi"
-    },
-    {
-        "id": 54,
-        "code": "GIP",
-"        "name": "Gibraltar Pound"
-    },
-    {
-        "id": 55,
-        "code": "GMD",
-!        "name": "Gambian Dalasi"
-    },
-    {
-        "id": 56,
-        "code": "GNF",
-         "name": "Guinean Franc"
-    },
-    {
-        "id": 57,
-        "code": "GTQ",
-%        "name": "Guatemalan Quetzal"
-    },
-    {
-        "id": 58,
-        "code": "GYD",
-#        "name": "Guyanaese Dollar"
-    },
-    {
-        "id": 59,
-        "code": "HKD",
-#        "name": "Hong Kong Dollar"
-    },
-    {
-        "id": 60,
-        "code": "HNL",
-#        "name": "Honduran Lempira"
-    },
-    {
-        "id": 61,
-        "code": "HRK",
-         "name": "Croatian Kuna"
-    },
-    {
-        "id": 62,
-        "code": "HTG",
-!        "name": "Haitian Gourde"
-    },
-    {
-        "id": 63,
-        "code": "HUF",
-#        "name": "Hungarian Forint"
-    },
-    {
-        "id": 64,
-        "code": "IDR",
-$        "name": "Indonesian Rupiah"
-    },
-    {
-        "id": 65,
-        "code": "ILS",
-%        "name": "Israeli New Sheqel"
-    },
-    {
-        "id": 66,
-        "code": "IMP",
-        "name": "Manx pound"
-    },
-    {
-        "id": 67,
-        "code": "INR",
-        "name": "Indian Rupee"
-    },
-    {
-        "id": 68,
-        "code": "IQD",
-        "name": "Iraqi Dinar"
-    },
-    {
-        "id": 69,
-        "code": "IRR",
-        "name": "Iranian Rial"
-    },
-    {
-        "id": 70,
-        "code": "ISK",
-#        "name": "Icelandic KrÃ³na"
-    },
-    {
-        "id": 71,
-        "code": "JEP",
-        "name": "Jersey Pound"
-    },
-    {
-        "id": 72,
-        "code": "JMD",
-"        "name": "Jamaican Dollar"
-    },
-    {
-        "id": 73,
-        "code": "JOD",
-"        "name": "Jordanian Dinar"
-    },
-    {
-        "id": 74,
-        "code": "JPY",
-        "name": "Japanese Yen"
-    },
-    {
-        "id": 75,
-        "code": "KES",
-"        "name": "Kenyan Shilling"
-    },
-    {
-        "id": 76,
-        "code": "KGS",
-!        "name": "Kyrgystani Som"
-    },
-    {
-        "id": 77,
-        "code": "KHR",
-!        "name": "Cambodian Riel"
-    },
-    {
-        "id": 78,
-        "code": "KMF",
-!        "name": "Comorian Franc"
-    },
-    {
-        "id": 79,
-        "code": "KPW",
-#        "name": "North Korean Won"
-    },
-    {
-        "id": 80,
-        "code": "KRW",
-#        "name": "South Korean Won"
-    },
-    {
-        "id": 81,
-        "code": "KWD",
-         "name": "Kuwaiti Dinar"
-    },
-    {
-        "id": 82,
-        "code": "KYD",
-(        "name": "Cayman Islands Dollar"
-    },
-    {
-        "id": 83,
-        "code": "KZT",
-$        "name": "Kazakhstani Tenge"
-    },
-    {
-        "id": 84,
-        "code": "LAK",
-        "name": "Laotian Kip"
-    },
-    {
-        "id": 85,
-        "code": "LBP",
-!        "name": "Lebanese Pound"
-    },
-    {
-        "id": 86,
-        "code": "LKR",
-#        "name": "Sri Lankan Rupee"
-    },
-    {
-        "id": 87,
-        "code": "LRD",
-"        "name": "Liberian Dollar"
-    },
-    {
-        "id": 88,
-        "code": "LSL",
-        "name": "Lesotho Loti"
-    },
-    {
-        "id": 89,
-        "code": "LYD",
-        "name": "Libyan Dinar"
-    },
-    {
-        "id": 90,
-        "code": "MAD",
-"        "name": "Moroccan Dirham"
-    },
-    {
-        "id": 91,
-        "code": "MDL",
-        "name": "Moldovan Leu"
-    },
-    {
-        "id": 92,
-        "code": "MGA",
-"        "name": "Malagasy Ariary"
-    },
-    {
-        "id": 93,
-        "code": "MKD",
-#        "name": "Macedonian Denar"
-    },
-    {
-        "id": 94,
-        "code": "MMK",
-        "name": "Myanma Kyat"
-    },
-    {
-        "id": 95,
-        "code": "MNT",
-#        "name": "Mongolian Tugrik"
-    },
-    {
-        "id": 96,
-        "code": "MOP",
-"        "name": "Macanese Pataca"
-    },
-    {
-        "id": 97,
-        "code": "MRO",
-1        "name": "Mauritanian Ouguiya (pre-2018)"
-    },
-    {
-        "id": 98,
-        "code": "MRU",
-&        "name": "Mauritanian Ouguiya"
-    },
-    {
-        "id": 99,
-        "code": "MUR",
-"        "name": "Mauritian Rupee"
-    },
-    {
-        "id": 100,
-        "code": "MVR",
-$        "name": "Maldivian Rufiyaa"
-    },
-    {
-        "id": 101,
-        "code": "MWK",
-"        "name": "Malawian Kwacha"
-    },
-    {
-        "id": 102,
-        "code": "MXN",
-        "name": "Mexican Peso"
-    },
-    {
-        "id": 103,
-        "code": "MYR",
-$        "name": "Malaysian Ringgit"
-    },
-    {
-        "id": 104,
-        "code": "MZN",
-%        "name": "Mozambican Metical"
-    },
-    {
-        "id": 105,
-        "code": "NAD",
-"        "name": "Namibian Dollar"
-    },
-    {
-        "id": 106,
-        "code": "NGN",
-!        "name": "Nigerian Naira"
-    },
-    {
-        "id": 107,
-        "code": "NIO",
-&        "name": "Nicaraguan CÃ³rdoba"
-    },
-    {
-        "id": 108,
-        "code": "NOK",
-"        "name": "Norwegian Krone"
-    },
-    {
-        "id": 109,
-        "code": "NPR",
-!        "name": "Nepalese Rupee"
-    },
-    {
-        "id": 110,
-        "code": "NZD",
-%        "name": "New Zealand Dollar"
-    },
-    {
-        "id": 111,
-        "code": "OMR",
-        "name": "Omani Rial"
-    },
-    {
-        "id": 112,
-        "code": "PAB",
-$        "name": "Panamanian Balboa"
-    },
-    {
-        "id": 113,
-        "code": "PEN",
-%        "name": "Peruvian Nuevo Sol"
-    },
-    {
-        "id": 114,
-        "code": "PGK",
-)        "name": "Papua New Guinean Kina"
-    },
-    {
-        "id": 115,
-        "code": "PHP",
-"        "name": "Philippine Peso"
-    },
-    {
-        "id": 116,
-        "code": "PKR",
-"        "name": "Pakistani Rupee"
-    },
-    {
-        "id": 117,
-        "code": "PLN",
-        "name": "Polish Zloty"
-    },
-    {
-        "id": 118,
-        "code": "PYG",
-%        "name": "Paraguayan Guarani"
-    },
-    {
-        "id": 119,
-        "code": "QAR",
-        "name": "Qatari Rial"
-    },
-    {
-        "id": 120,
-        "code": "RON",
-        "name": "Romanian Leu"
-    },
-    {
-        "id": 121,
-        "code": "RSD",
-         "name": "Serbian Dinar"
-    },
-    {
-        "id": 122,
-        "code": "RUB",
-         "name": "Russian Ruble"
-    },
-    {
-        "id": 123,
-        "code": "RWF",
-         "name": "Rwandan Franc"
-    },
-    {
-        "id": 124,
-        "code": "SAR",
-        "name": "Saudi Riyal"
-    },
-    {
-        "id": 125,
-        "code": "SBD",
-)        "name": "Solomon Islands Dollar"
-    },
-    {
-        "id": 126,
-        "code": "SCR",
-$        "name": "Seychellois Rupee"
-    },
-    {
-        "id": 127,
-        "code": "SDG",
-!        "name": "Sudanese Pound"
-    },
-    {
-        "id": 128,
-        "code": "SEK",
-         "name": "Swedish Krona"
-    },
-    {
-        "id": 129,
-        "code": "SGD",
-#        "name": "Singapore Dollar"
-    },
-    {
-        "id": 130,
-        "code": "SHP",
-%        "name": "Saint Helena Pound"
-    },
-    {
-        "id": 131,
-        "code": "SLL",
-'        "name": "Sierra Leonean Leone"
-    },
-    {
-        "id": 132,
-        "code": "SOS",
-"        "name": "Somali Shilling"
-    },
-    {
-        "id": 133,
-        "code": "SRD",
-$        "name": "Surinamese Dollar"
-    },
-    {
-        "id": 134,
-        "code": "SSP",
-'        "name": "South Sudanese Pound"
-    },
-    {
-        "id": 135,
-        "code": "STD",
-<        "name": "SÃ£o TomÃ© and PrÃ­ncipe Dobra (pre-2018)"
-    },
-    {
-        "id": 136,
-        "code": "STN",
-1        "name": "SÃ£o TomÃ© and PrÃ­ncipe Dobra"
-    },
-    {
-        "id": 137,
-        "code": "SVC",
-$        "name": "Salvadoran ColÃ³n"
-    },
-    {
-        "id": 138,
-        "code": "SYP",
-        "name": "Syrian Pound"
-    },
-    {
-        "id": 139,
-        "code": "SZL",
-"        "name": "Swazi Lilangeni"
-    },
-    {
-        "id": 140,
-        "code": "THB",
-        "name": "Thai Baht"
-    },
-    {
-        "id": 141,
-        "code": "TJS",
-%        "name": "Tajikistani Somoni"
-    },
-    {
-        "id": 142,
-        "code": "TMT",
-&        "name": "Turkmenistani Manat"
-    },
-    {
-        "id": 143,
-        "code": "TND",
-!        "name": "Tunisian Dinar"
-    },
-    {
-        "id": 144,
-        "code": "TOP",
-!        "name": "Tongan Pa'anga"
-    },
-    {
-        "id": 145,
-        "code": "TRY",
-        "name": "Turkish Lira"
-    },
-    {
-        "id": 146,
-        "code": "TTD",
--        "name": "Trinidad and Tobago Dollar"
-    },
-    {
-        "id": 147,
-        "code": "TWD",
-$        "name": "New Taiwan Dollar"
-    },
-    {
-        "id": 148,
-        "code": "TZS",
-%        "name": "Tanzanian Shilling"
-    },
-    {
-        "id": 149,
-        "code": "UAH",
-$        "name": "Ukrainian Hryvnia"
-    },
-    {
-        "id": 150,
-        "code": "UGX",
-#        "name": "Ugandan Shilling"
-    },
-    {
-        "id": 151,
-        "code": "USD",
-'        "name": "United States Dollar"
-    },
-    {
-        "id": 152,
-        "code": "UYU",
-!        "name": "Uruguayan Peso"
-    },
-    {
-        "id": 153,
-        "code": "UZS",
-!        "name": "Uzbekistan Som"
-    },
-    {
-        "id": 154,
-        "code": "VEF",
--        "name": "Venezuelan BolÃ­var Fuerte"
-    },
-    {
-        "id": 155,
-        "code": "VND",
-"        "name": "Vietnamese Dong"
-    },
-    {
-        "id": 156,
-        "code": "VUV",
-        "name": "Vanuatu Vatu"
-    },
-    {
-        "id": 157,
-        "code": "WST",
-        "name": "Samoan Tala"
-    },
-    {
-        "id": 158,
-        "code": "XAF",
-!        "name": "CFA Franc BEAC"
-    },
-    {
-        "id": 159,
-        "code": "XAG",
-        "name": "Silver Ounce"
-    },
-    {
-        "id": 160,
-        "code": "XAU",
-        "name": "Gold Ounce"
-    },
-    {
-        "id": 161,
-        "code": "XCD",
-(        "name": "East Caribbean Dollar"
-    },
-    {
-        "id": 162,
-        "code": "XDR",
-)        "name": "Special Drawing Rights"
-    },
-    {
-        "id": 163,
-        "code": "XOF",
-"        "name": "CFA Franc BCEAO"
-    },
-    {
-        "id": 164,
-        "code": "XPD",
-"        "name": "Palladium Ounce"
-    },
-    {
-        "id": 165,
-        "code": "XPF",
-        "name": "CFP Franc"
-    },
-    {
-        "id": 166,
-        "code": "XPT",
-!        "name": "Platinum Ounce"
-    },
-    {
-        "id": 167,
-        "code": "YER",
-        "name": "Yemeni Rial"
-    },
-    {
-        "id": 168,
-        "code": "ZAR",
-%        "name": "South African Rand"
-    },
-    {
-        "id": 169,
-        "code": "ZMW",
-!        "name": "Zambian Kwacha"
-    },
-    {
-        "id": 170,
-        "code": "ZWL",
-$        "name": "Zimbabwean Dollar"
-    }
-]
-x08:20:35.314 [Test worker] INFO services.SoftwiumAPITesting -- io.restassured.internal.RestAssuredResponseImpl@193eb1ba
+[
+    {
+        "id": 1,
+        "code": "AED",
+.        "name": "United Arab Emirates Dirham"
+    },
+    {
+        "id": 2,
+        "code": "AFN",
+!        "name": "Afghan Afghani"
+    },
+    {
+        "id": 3,
+        "code": "ALL",
+        "name": "Albanian Lek"
+    },
+    {
+        "id": 4,
+        "code": "AMD",
+         "name": "Armenian Dram"
+    },
+    {
+        "id": 5,
+        "code": "ANG",
+0        "name": "Netherlands Antillean Guilder"
+    },
+    {
+        "id": 6,
+        "code": "AOA",
+!        "name": "Angolan Kwanza"
+    },
+    {
+        "id": 7,
+        "code": "ARS",
+!        "name": "Argentine Peso"
+    },
+    {
+        "id": 8,
+        "code": "AUD",
+$        "name": "Australian Dollar"
+    },
+    {
+        "id": 9,
+        "code": "AWG",
+         "name": "Aruban Florin"
+    },
+    {
+        "id": 10,
+        "code": "AZN",
+$        "name": "Azerbaijani Manat"
+    },
+    {
+        "id": 11,
+        "code": "BAM",
+6        "name": "Bosnia-Herzegovina Convertible Mark"
+    },
+    {
+        "id": 12,
+        "code": "BBD",
+#        "name": "Barbadian Dollar"
+    },
+    {
+        "id": 13,
+        "code": "BDT",
+#        "name": "Bangladeshi Taka"
+    },
+    {
+        "id": 14,
+        "code": "BGN",
+         "name": "Bulgarian Lev"
+    },
+    {
+        "id": 15,
+        "code": "BHD",
+!        "name": "Bahraini Dinar"
+    },
+    {
+        "id": 16,
+        "code": "BIF",
+"        "name": "Burundian Franc"
+    },
+    {
+        "id": 17,
+        "code": "BMD",
+"        "name": "Bermudan Dollar"
+    },
+    {
+        "id": 18,
+        "code": "BND",
+         "name": "Brunei Dollar"
+    },
+    {
+        "id": 19,
+        "code": "BOB",
+%        "name": "Bolivian Boliviano"
+    },
+    {
+        "id": 20,
+        "code": "BRL",
+!        "name": "Brazilian Real"
+    },
+    {
+        "id": 21,
+        "code": "BSD",
+"        "name": "Bahamian Dollar"
+    },
+    {
+        "id": 22,
+        "code": "BTC",
+        "name": "Bitcoin"
+    },
+    {
+        "id": 23,
+        "code": "BTN",
+%        "name": "Bhutanese Ngultrum"
+    },
+    {
+        "id": 24,
+        "code": "BWP",
+!        "name": "Botswanan Pula"
+    },
+    {
+        "id": 25,
+        "code": "BYN",
+#        "name": "Belarusian Ruble"
+    },
+    {
+        "id": 26,
+        "code": "BZD",
+         "name": "Belize Dollar"
+    },
+    {
+        "id": 27,
+        "code": "CAD",
+"        "name": "Canadian Dollar"
+    },
+    {
+        "id": 28,
+        "code": "CDF",
+"        "name": "Congolese Franc"
+    },
+    {
+        "id": 29,
+        "code": "CHF",
+        "name": "Swiss Franc"
+    },
+    {
+        "id": 30,
+        "code": "CLF",
+/        "name": "Chilean Unit of Account (UF)"
+    },
+    {
+        "id": 31,
+        "code": "CLP",
+        "name": "Chilean Peso"
+    },
+    {
+        "id": 32,
+        "code": "CNH",
+*        "name": "Chinese Yuan (Offshore)"
+    },
+    {
+        "id": 33,
+        "code": "CNY",
+        "name": "Chinese Yuan"
+    },
+    {
+        "id": 34,
+        "code": "COP",
+!        "name": "Colombian Peso"
+    },
+    {
+        "id": 35,
+        "code": "CRC",
+%        "name": "Costa Rican ColÃ³n"
+    },
+    {
+        "id": 36,
+        "code": "CUC",
+)        "name": "Cuban Convertible Peso"
+    },
+    {
+        "id": 37,
+        "code": "CUP",
+        "name": "Cuban Peso"
+    },
+    {
+        "id": 38,
+        "code": "CVE",
+&        "name": "Cape Verdean Escudo"
+    },
+    {
+        "id": 39,
+        "code": "CZK",
+(        "name": "Czech Republic Koruna"
+    },
+    {
+        "id": 40,
+        "code": "DJF",
+#        "name": "Djiboutian Franc"
+    },
+    {
+        "id": 41,
+        "code": "DKK",
+        "name": "Danish Krone"
+    },
+    {
+        "id": 42,
+        "code": "DOP",
+!        "name": "Dominican Peso"
+    },
+    {
+        "id": 43,
+        "code": "DZD",
+!        "name": "Algerian Dinar"
+    },
+    {
+        "id": 44,
+        "code": "EGP",
+!        "name": "Egyptian Pound"
+    },
+    {
+        "id": 45,
+        "code": "ERN",
+!        "name": "Eritrean Nakfa"
+    },
+    {
+        "id": 46,
+        "code": "ETB",
+!        "name": "Ethiopian Birr"
+    },
+    {
+        "id": 47,
+        "code": "EUR",
+        "name": "Euro"
+    },
+    {
+        "id": 48,
+        "code": "FJD",
+         "name": "Fijian Dollar"
+    },
+    {
+        "id": 49,
+        "code": "FKP",
+)        "name": "Falkland Islands Pound"
+    },
+    {
+        "id": 50,
+        "code": "GBP",
+)        "name": "British Pound Sterling"
+    },
+    {
+        "id": 51,
+        "code": "GEL",
+         "name": "Georgian Lari"
+    },
+    {
+        "id": 52,
+        "code": "GGP",
+!        "name": "Guernsey Pound"
+    },
+    {
+        "id": 53,
+        "code": "GHS",
+         "name": "Ghanaian Cedi"
+    },
+    {
+        "id": 54,
+        "code": "GIP",
+"        "name": "Gibraltar Pound"
+    },
+    {
+        "id": 55,
+        "code": "GMD",
+!        "name": "Gambian Dalasi"
+    },
+    {
+        "id": 56,
+        "code": "GNF",
+         "name": "Guinean Franc"
+    },
+    {
+        "id": 57,
+        "code": "GTQ",
+%        "name": "Guatemalan Quetzal"
+    },
+    {
+        "id": 58,
+        "code": "GYD",
+#        "name": "Guyanaese Dollar"
+    },
+    {
+        "id": 59,
+        "code": "HKD",
+#        "name": "Hong Kong Dollar"
+    },
+    {
+        "id": 60,
+        "code": "HNL",
+#        "name": "Honduran Lempira"
+    },
+    {
+        "id": 61,
+        "code": "HRK",
+         "name": "Croatian Kuna"
+    },
+    {
+        "id": 62,
+        "code": "HTG",
+!        "name": "Haitian Gourde"
+    },
+    {
+        "id": 63,
+        "code": "HUF",
+#        "name": "Hungarian Forint"
+    },
+    {
+        "id": 64,
+        "code": "IDR",
+$        "name": "Indonesian Rupiah"
+    },
+    {
+        "id": 65,
+        "code": "ILS",
+%        "name": "Israeli New Sheqel"
+    },
+    {
+        "id": 66,
+        "code": "IMP",
+        "name": "Manx pound"
+    },
+    {
+        "id": 67,
+        "code": "INR",
+        "name": "Indian Rupee"
+    },
+    {
+        "id": 68,
+        "code": "IQD",
+        "name": "Iraqi Dinar"
+    },
+    {
+        "id": 69,
+        "code": "IRR",
+        "name": "Iranian Rial"
+    },
+    {
+        "id": 70,
+        "code": "ISK",
+#        "name": "Icelandic KrÃ³na"
+    },
+    {
+        "id": 71,
+        "code": "JEP",
+        "name": "Jersey Pound"
+    },
+    {
+        "id": 72,
+        "code": "JMD",
+"        "name": "Jamaican Dollar"
+    },
+    {
+        "id": 73,
+        "code": "JOD",
+"        "name": "Jordanian Dinar"
+    },
+    {
+        "id": 74,
+        "code": "JPY",
+        "name": "Japanese Yen"
+    },
+    {
+        "id": 75,
+        "code": "KES",
+"        "name": "Kenyan Shilling"
+    },
+    {
+        "id": 76,
+        "code": "KGS",
+!        "name": "Kyrgystani Som"
+    },
+    {
+        "id": 77,
+        "code": "KHR",
+!        "name": "Cambodian Riel"
+    },
+    {
+        "id": 78,
+        "code": "KMF",
+!        "name": "Comorian Franc"
+    },
+    {
+        "id": 79,
+        "code": "KPW",
+#        "name": "North Korean Won"
+    },
+    {
+        "id": 80,
+        "code": "KRW",
+#        "name": "South Korean Won"
+    },
+    {
+        "id": 81,
+        "code": "KWD",
+         "name": "Kuwaiti Dinar"
+    },
+    {
+        "id": 82,
+        "code": "KYD",
+(        "name": "Cayman Islands Dollar"
+    },
+    {
+        "id": 83,
+        "code": "KZT",
+$        "name": "Kazakhstani Tenge"
+    },
+    {
+        "id": 84,
+        "code": "LAK",
+        "name": "Laotian Kip"
+    },
+    {
+        "id": 85,
+        "code": "LBP",
+!        "name": "Lebanese Pound"
+    },
+    {
+        "id": 86,
+        "code": "LKR",
+#        "name": "Sri Lankan Rupee"
+    },
+    {
+        "id": 87,
+        "code": "LRD",
+"        "name": "Liberian Dollar"
+    },
+    {
+        "id": 88,
+        "code": "LSL",
+        "name": "Lesotho Loti"
+    },
+    {
+        "id": 89,
+        "code": "LYD",
+        "name": "Libyan Dinar"
+    },
+    {
+        "id": 90,
+        "code": "MAD",
+"        "name": "Moroccan Dirham"
+    },
+    {
+        "id": 91,
+        "code": "MDL",
+        "name": "Moldovan Leu"
+    },
+    {
+        "id": 92,
+        "code": "MGA",
+"        "name": "Malagasy Ariary"
+    },
+    {
+        "id": 93,
+        "code": "MKD",
+#        "name": "Macedonian Denar"
+    },
+    {
+        "id": 94,
+        "code": "MMK",
+        "name": "Myanma Kyat"
+    },
+    {
+        "id": 95,
+        "code": "MNT",
+#        "name": "Mongolian Tugrik"
+    },
+    {
+        "id": 96,
+        "code": "MOP",
+"        "name": "Macanese Pataca"
+    },
+    {
+        "id": 97,
+        "code": "MRO",
+1        "name": "Mauritanian Ouguiya (pre-2018)"
+    },
+    {
+        "id": 98,
+        "code": "MRU",
+&        "name": "Mauritanian Ouguiya"
+    },
+    {
+        "id": 99,
+        "code": "MUR",
+"        "name": "Mauritian Rupee"
+    },
+    {
+        "id": 100,
+        "code": "MVR",
+$        "name": "Maldivian Rufiyaa"
+    },
+    {
+        "id": 101,
+        "code": "MWK",
+"        "name": "Malawian Kwacha"
+    },
+    {
+        "id": 102,
+        "code": "MXN",
+        "name": "Mexican Peso"
+    },
+    {
+        "id": 103,
+        "code": "MYR",
+$        "name": "Malaysian Ringgit"
+    },
+    {
+        "id": 104,
+        "code": "MZN",
+%        "name": "Mozambican Metical"
+    },
+    {
+        "id": 105,
+        "code": "NAD",
+"        "name": "Namibian Dollar"
+    },
+    {
+        "id": 106,
+        "code": "NGN",
+!        "name": "Nigerian Naira"
+    },
+    {
+        "id": 107,
+        "code": "NIO",
+&        "name": "Nicaraguan CÃ³rdoba"
+    },
+    {
+        "id": 108,
+        "code": "NOK",
+"        "name": "Norwegian Krone"
+    },
+    {
+        "id": 109,
+        "code": "NPR",
+!        "name": "Nepalese Rupee"
+    },
+    {
+        "id": 110,
+        "code": "NZD",
+%        "name": "New Zealand Dollar"
+    },
+    {
+        "id": 111,
+        "code": "OMR",
+        "name": "Omani Rial"
+    },
+    {
+        "id": 112,
+        "code": "PAB",
+$        "name": "Panamanian Balboa"
+    },
+    {
+        "id": 113,
+        "code": "PEN",
+%        "name": "Peruvian Nuevo Sol"
+    },
+    {
+        "id": 114,
+        "code": "PGK",
+)        "name": "Papua New Guinean Kina"
+    },
+    {
+        "id": 115,
+        "code": "PHP",
+"        "name": "Philippine Peso"
+    },
+    {
+        "id": 116,
+        "code": "PKR",
+"        "name": "Pakistani Rupee"
+    },
+    {
+        "id": 117,
+        "code": "PLN",
+        "name": "Polish Zloty"
+    },
+    {
+        "id": 118,
+        "code": "PYG",
+%        "name": "Paraguayan Guarani"
+    },
+    {
+        "id": 119,
+        "code": "QAR",
+        "name": "Qatari Rial"
+    },
+    {
+        "id": 120,
+        "code": "RON",
+        "name": "Romanian Leu"
+    },
+    {
+        "id": 121,
+        "code": "RSD",
+         "name": "Serbian Dinar"
+    },
+    {
+        "id": 122,
+        "code": "RUB",
+         "name": "Russian Ruble"
+    },
+    {
+        "id": 123,
+        "code": "RWF",
+         "name": "Rwandan Franc"
+    },
+    {
+        "id": 124,
+        "code": "SAR",
+        "name": "Saudi Riyal"
+    },
+    {
+        "id": 125,
+        "code": "SBD",
+)        "name": "Solomon Islands Dollar"
+    },
+    {
+        "id": 126,
+        "code": "SCR",
+$        "name": "Seychellois Rupee"
+    },
+    {
+        "id": 127,
+        "code": "SDG",
+!        "name": "Sudanese Pound"
+    },
+    {
+        "id": 128,
+        "code": "SEK",
+         "name": "Swedish Krona"
+    },
+    {
+        "id": 129,
+        "code": "SGD",
+#        "name": "Singapore Dollar"
+    },
+    {
+        "id": 130,
+        "code": "SHP",
+%        "name": "Saint Helena Pound"
+    },
+    {
+        "id": 131,
+        "code": "SLL",
+'        "name": "Sierra Leonean Leone"
+    },
+    {
+        "id": 132,
+        "code": "SOS",
+"        "name": "Somali Shilling"
+    },
+    {
+        "id": 133,
+        "code": "SRD",
+$        "name": "Surinamese Dollar"
+    },
+    {
+        "id": 134,
+        "code": "SSP",
+'        "name": "South Sudanese Pound"
+    },
+    {
+        "id": 135,
+        "code": "STD",
+<        "name": "SÃ£o TomÃ© and PrÃ­ncipe Dobra (pre-2018)"
+    },
+    {
+        "id": 136,
+        "code": "STN",
+1        "name": "SÃ£o TomÃ© and PrÃ­ncipe Dobra"
+    },
+    {
+        "id": 137,
+        "code": "SVC",
+$        "name": "Salvadoran ColÃ³n"
+    },
+    {
+        "id": 138,
+        "code": "SYP",
+        "name": "Syrian Pound"
+    },
+    {
+        "id": 139,
+        "code": "SZL",
+"        "name": "Swazi Lilangeni"
+    },
+    {
+        "id": 140,
+        "code": "THB",
+        "name": "Thai Baht"
+    },
+    {
+        "id": 141,
+        "code": "TJS",
+%        "name": "Tajikistani Somoni"
+    },
+    {
+        "id": 142,
+        "code": "TMT",
+&        "name": "Turkmenistani Manat"
+    },
+    {
+        "id": 143,
+        "code": "TND",
+!        "name": "Tunisian Dinar"
+    },
+    {
+        "id": 144,
+        "code": "TOP",
+!        "name": "Tongan Pa'anga"
+    },
+    {
+        "id": 145,
+        "code": "TRY",
+        "name": "Turkish Lira"
+    },
+    {
+        "id": 146,
+        "code": "TTD",
+-        "name": "Trinidad and Tobago Dollar"
+    },
+    {
+        "id": 147,
+        "code": "TWD",
+$        "name": "New Taiwan Dollar"
+    },
+    {
+        "id": 148,
+        "code": "TZS",
+%        "name": "Tanzanian Shilling"
+    },
+    {
+        "id": 149,
+        "code": "UAH",
+$        "name": "Ukrainian Hryvnia"
+    },
+    {
+        "id": 150,
+        "code": "UGX",
+#        "name": "Ugandan Shilling"
+    },
+    {
+        "id": 151,
+        "code": "USD",
+'        "name": "United States Dollar"
+    },
+    {
+        "id": 152,
+        "code": "UYU",
+!        "name": "Uruguayan Peso"
+    },
+    {
+        "id": 153,
+        "code": "UZS",
+!        "name": "Uzbekistan Som"
+    },
+    {
+        "id": 154,
+        "code": "VEF",
+-        "name": "Venezuelan BolÃ­var Fuerte"
+    },
+    {
+        "id": 155,
+        "code": "VND",
+"        "name": "Vietnamese Dong"
+    },
+    {
+        "id": 156,
+        "code": "VUV",
+        "name": "Vanuatu Vatu"
+    },
+    {
+        "id": 157,
+        "code": "WST",
+        "name": "Samoan Tala"
+    },
+    {
+        "id": 158,
+        "code": "XAF",
+!        "name": "CFA Franc BEAC"
+    },
+    {
+        "id": 159,
+        "code": "XAG",
+        "name": "Silver Ounce"
+    },
+    {
+        "id": 160,
+        "code": "XAU",
+        "name": "Gold Ounce"
+    },
+    {
+        "id": 161,
+        "code": "XCD",
+(        "name": "East Caribbean Dollar"
+    },
+    {
+        "id": 162,
+        "code": "XDR",
+)        "name": "Special Drawing Rights"
+    },
+    {
+        "id": 163,
+        "code": "XOF",
+"        "name": "CFA Franc BCEAO"
+    },
+    {
+        "id": 164,
+        "code": "XPD",
+"        "name": "Palladium Ounce"
+    },
+    {
+        "id": 165,
+        "code": "XPF",
+        "name": "CFP Franc"
+    },
+    {
+        "id": 166,
+        "code": "XPT",
+!        "name": "Platinum Ounce"
+    },
+    {
+        "id": 167,
+        "code": "YER",
+        "name": "Yemeni Rial"
+    },
+    {
+        "id": 168,
+        "code": "ZAR",
+%        "name": "South African Rand"
+    },
+    {
+        "id": 169,
+        "code": "ZMW",
+!        "name": "Zambian Kwacha"
+    },
+    {
+        "id": 170,
+        "code": "ZWL",
+$        "name": "Zimbabwean Dollar"
+    }
+]
+x19:38:00.712 [Test worker] INFO services.SoftwiumAPITesting -- io.restassured.internal.RestAssuredResponseImpl@6424e613
+†19:38:01.048 [Test worker] DEBUG io.netty.util.internal.logging.InternalLoggerFactory -- Using SLF4J as the default logging framework
+n19:38:01.049 [Test worker] DEBUG io.netty.util.ResourceLeakDetector -- -Dio.netty.leakDetection.level: simple
+q19:38:01.049 [Test worker] DEBUG io.netty.util.ResourceLeakDetector -- -Dio.netty.leakDetection.targetRecords: 4
+Ÿ19:38:01.050 [Test worker] DEBUG io.netty.util.ResourceLeakDetectorFactory -- Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@40f1aa95
+i19:38:01.056 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- -Dio.netty.noUnsafe: false
+_19:38:01.056 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- Java version: 21
+s19:38:01.056 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- sun.misc.Unsafe.theUnsafe: available
+t19:38:01.056 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- sun.misc.Unsafe.copyMemory: available
+t19:38:01.057 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- sun.misc.Unsafe.storeFence: available
+q19:38:01.057 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- java.nio.Buffer.address: available
+¡19:38:01.057 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- direct buffer constructor: unavailable: java.nio.DirectByteBuffer.<init>(long,int)
+w19:38:01.057 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- java.nio.Bits.unaligned: available, true
+á19:38:01.057 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @15aab8c6
+‡19:38:01.058 [Test worker] DEBUG io.netty.util.internal.PlatformDependent0 -- java.nio.DirectByteBuffer.<init>(long, int): unavailable
+h19:38:01.058 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- sun.misc.Unsafe: available
+v19:38:01.061 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- maxDirectMemory: 536870912 bytes (maybe)
+¢19:38:01.061 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- -Dio.netty.tmpdir: /var/folders/lj/v_0ljy9j49lfmy84r570b0sr0000gn/T (java.io.tmpdir)
+z19:38:01.061 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- -Dio.netty.bitMode: 64 (sun.arch.data.model)
+]19:38:01.062 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- Platform: MacOS
+r19:38:01.062 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- -Dio.netty.maxDirectMemory: -1 bytes
+‚19:38:01.062 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- -Dio.netty.uninitializedArrayAllocationThreshold: -1
+q19:38:01.062 [Test worker] DEBUG io.netty.util.internal.CleanerJava9 -- java.nio.ByteBuffer.cleaner(): available
+n19:38:01.062 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- -Dio.netty.noPreferDirect: false
+19:38:01.064 [Test worker] DEBUG io.netty.util.internal.PlatformDependent -- org.jctools-core.MpscChunkedArrayQueue: available
+Œ19:38:01.070 [Test worker] DEBUG io.netty.util.internal.InternalThreadLocalMap -- -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+ˆ19:38:01.070 [Test worker] DEBUG io.netty.util.internal.InternalThreadLocalMap -- -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+t19:38:01.076 [Test worker] DEBUG io.netty.handler.ssl.JdkSslContext -- Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+Ú19:38:01.076 [Test worker] DEBUG io.netty.handler.ssl.JdkSslContext -- Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+†19:38:01.079 [Test worker] DEBUG io.netty.util.concurrent.GlobalEventExecutor -- -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+o19:38:01.082 [Test worker] DEBUG io.netty.channel.MultithreadEventLoopGroup -- -Dio.netty.eventLoopThreads: 32
+m19:38:01.084 [Test worker] DEBUG io.netty.channel.nio.NioEventLoop -- -Dio.netty.noKeySetOptimization: false
+s19:38:01.084 [Test worker] DEBUG io.netty.channel.nio.NioEventLoop -- -Dio.netty.selectorAutoRebuildThreshold: 512
+r19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.numHeapArenas: 21
+t19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.numDirectArenas: 21
+o19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.pageSize: 8192
+l19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.maxOrder: 9
+s19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.chunkSize: 4194304
+t19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.smallCacheSize: 256
+t19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.normalCacheSize: 64
+19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+x19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.cacheTrimInterval: 8192
+{19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+}19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.useCacheForAllThreads: false
+ƒ19:38:01.091 [Test worker] DEBUG io.netty.buffer.PooledByteBufAllocator -- -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+b19:38:01.095 [Test worker] DEBUG io.netty.buffer.ByteBufUtil -- -Dio.netty.allocator.type: pooled
+j19:38:01.095 [Test worker] DEBUG io.netty.buffer.ByteBufUtil -- -Dio.netty.threadLocalDirectBufferSize: 0
+o19:38:01.095 [Test worker] DEBUG io.netty.buffer.ByteBufUtil -- -Dio.netty.maxThreadLocalCharBufferSize: 16384
+–19:38:01.205 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId -- -Dio.netty.processId: 89840 (auto-detected)
+€19:38:01.205 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil -- -Djava.net.preferIPv4Stack: false
+„19:38:01.205 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil -- -Djava.net.preferIPv6Addresses: false
+ 19:38:01.208 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations -- Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+¶19:38:01.208 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil -- Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+¨19:38:01.209 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId -- -Dio.netty.machineId: 06:3b:db:ff:fe:ae:8c:3a (auto-detected)
+t19:38:01.220 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf -- -Dio.netty.buffer.checkAccessible: true
+p19:38:01.221 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf -- -Dio.netty.buffer.checkBounds: true
+§19:38:01.221 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory -- Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2538f723
+Ó19:38:01.224 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to '/session'
+r19:38:01.229 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler -- -Dio.netty.recycler.maxCapacityPerThread: 4096
+`19:38:01.229 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler -- -Dio.netty.recycler.ratio: 8
+e19:38:01.229 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler -- -Dio.netty.recycler.chunkSize: 32
+g19:38:01.229 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler -- -Dio.netty.recycler.blocking: false
+v19:38:01.229 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler -- -Dio.netty.recycler.batchFastThreadLocalOnly: true
+™19:38:01.790 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli -- brotli4j not in the classpath; Brotli support will be unavailable.
+[19:38:01.791 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 348
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 891
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:01.793 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+×19:38:01.813 [AsyncHttpClient-1-3] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0x1dc6e574, L:/127.0.0.1:62085 - R:localhost/127.0.0.1:62078]' for 'GET' to '/json/version'
+[19:38:01.814 [AsyncHttpClient-1-3] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+host: localhost:62078
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+0Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 430
+.Content-Type: application/json; charset=UTF-8
+
+Ï19:38:01.814 [AsyncHttpClient-1-3] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:62078 for channel [id: 0x1dc6e574, L:/127.0.0.1:62085 - R:localhost/127.0.0.1:62078]
+‚19:38:01.817 [Test worker] DEBUG io.netty.util.internal.ThreadLocalRandom -- -Dio.netty.initialSeedUniquifier: 0x8492cf4cdd54e6d4
+€19:38:01.819 [AsyncHttpClient-1-4] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0x35f63f86, L:/127.0.0.1:62086 - R:localhost/127.0.0.1:62078]' for 'GET' to '/devtools/browser/8b056607-0156-4ca3-b32e-f3ce3ed7b7cc'
+`19:38:01.820 [AsyncHttpClient-1-4] DEBUG org.asynchttpclient.netty.handler.WebSocketHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+DGET /devtools/browser/8b056607-0156-4ca3-b32e-f3ce3ed7b7cc HTTP/1.1
+upgrade: websocket
+connection: upgrade
+,sec-websocket-key: Aw2rJCTwxI3kJtVeQjhcvg==
+sec-websocket-version: 13
+origin: http://localhost:62078
+host: localhost:62078
+accept: */*
+user-agent: AHC/2.1
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+*HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+3Sec-WebSocket-Accept: ExIbF1FGFfXnICsileXk/GqAXfI=
+
+ WMay 16, 2025 7:38:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ 8WARNING: Unable to find CDP implementation matching 136
+ QMay 16, 2025 7:38:01 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+ õWARNING: Unable to find version of CDP to use for 136.0.7103.114. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+À19:38:01.832 [Forwarding get on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/url'
+¡19:38:01.832 [Forwarding get on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/url'
+[19:38:02.085 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+<POST /session/b7d5c1290b8702ee702f77dc84919491/url HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 91
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.085 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.087 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.087 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.092 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.092 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.093 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.094 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.098 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.099 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.099 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.099 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.104 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.104 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.105 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.105 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.109 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 63
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.109 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.110 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.110 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.114 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.114 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.114 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.114 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.118 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.118 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.119 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.119 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.122 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.123 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.123 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.123 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.127 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.127 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.128 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.128 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.132 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.132 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.133 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.133 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.137 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 63
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.137 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.137 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.137 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.141 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 61
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.141 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.142 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.142 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.146 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 62
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.146 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.146 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.147 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.150 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.150 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ì19:38:02.151 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element'
+­19:38:02.151 [Forwarding findElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element'
+[19:38:02.155 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/b7d5c1290b8702ee702f77dc84919491/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 71
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.155 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+19:38:02.155 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.9/text'
+þ19:38:02.155 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.9/text'
+[19:38:02.160 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+ŽGET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.9/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 12
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.160 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+ž19:38:02.161 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.10/text'
+ÿ19:38:02.161 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.10/text'
+[19:38:02.164 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.10/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 12
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.164 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+ž19:38:02.165 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.11/text'
+ÿ19:38:02.165 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.11/text'
+[19:38:02.167 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.11/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 12
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.168 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+19:38:02.168 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.2/text'
+þ19:38:02.168 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.2/text'
+Ž19:38:02.171 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:62078 : 1
+[19:38:02.172 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+ŽGET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.2/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 130
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.172 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+ž19:38:02.172 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.14/text'
+ÿ19:38:02.172 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.14/text'
+[19:38:02.175 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.14/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 12
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.176 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+¤19:38:02.176 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.4/selected'
+…19:38:02.176 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.4/selected'
+[19:38:02.180 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+’GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.4/selected HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.180 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+¥19:38:02.180 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.15/selected'
+†19:38:02.180 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.15/selected'
+[19:38:02.183 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+“GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.15/selected HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 15
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.183 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+¤19:38:02.183 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.6/selected'
+…19:38:02.183 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.6/selected'
+[19:38:02.186 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+’GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.6/selected HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.186 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+¥19:38:02.186 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.16/selected'
+†19:38:02.186 [Forwarding isElementSelected on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.16/selected'
+[19:38:02.188 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+“GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.16/selected HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 15
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.189 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+¼19:38:02.189 [Forwarding getElementValueOfCssProperty on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.19/css/background-color'
+19:38:02.189 [Forwarding getElementValueOfCssProperty on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.19/css/background-color'
+[19:38:02.192 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+ŸGET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.19/css/background-color HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 34
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.193 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+ž19:38:02.193 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.17/text'
+ÿ19:38:02.193 [Forwarding getElementText on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.17/text'
+[19:38:02.196 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.17/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 12
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.196 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ù19:38:02.199 [Forwarding getElementAttribute on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/execute/sync'
+º19:38:02.199 [Forwarding getElementAttribute on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/execute/sync'
+[19:38:02.204 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+EPOST /session/b7d5c1290b8702ee702f77dc84919491/execute/sync HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 47406
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 13
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.204 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ù19:38:02.206 [Forwarding getElementAttribute on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/execute/sync'
+º19:38:02.206 [Forwarding getElementAttribute on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/execute/sync'
+[19:38:02.210 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+EPOST /session/b7d5c1290b8702ee702f77dc84919491/execute/sync HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 47405
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 18
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.210 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+ž19:38:02.211 [Forwarding clickElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'POST' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.31/click'
+ÿ19:38:02.211 [Forwarding clickElement on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for POST '/session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.31/click'
+[19:38:02.266 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/b7d5c1290b8702ee702f77dc84919491/element/f.40C1A9A1BF228708B3A8AEFAC31DB4EC.d.1FE3BE88BCBCC6CCE90E9382702834B7.e.31/click HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 88
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.267 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+É19:38:02.267 [Forwarding getCurrentUrl on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'GET' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491/url'
+ª19:38:02.267 [Forwarding getCurrentUrl on session b7d5c1290b8702ee702f77dc84919491 to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for GET '/session/b7d5c1290b8702ee702f77dc84919491/url'
+[19:38:02.269 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+;GET /session/b7d5c1290b8702ee702f77dc84919491/url HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 60
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.269 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+‘19:38:02.271 [Driver Command Executor] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]' for 'DELETE' to 'http://localhost:24331/session/b7d5c1290b8702ee702f77dc84919491'
+ò19:38:02.271 [Driver Command Executor] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331] for DELETE '/session/b7d5c1290b8702ee702f77dc84919491'
+É19:38:02.272 [AsyncHttpClient-1-4] DEBUG org.asynchttpclient.netty.handler.WebSocketHandler -- Channel Closed: [id: 0x35f63f86, L:/127.0.0.1:62086 ! R:localhost/127.0.0.1:62078] with attribute DISCARD
+Ä19:38:02.279 [AsyncHttpClient-1-3] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- Channel Closed: [id: 0x1dc6e574, L:/127.0.0.1:62085 ! R:localhost/127.0.0.1:62078] with attribute DISCARD
+[19:38:02.325 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+:DELETE /session/b7d5c1290b8702ee702f77dc84919491 HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+.Content-Type: application/json; charset=utf-8
+host: localhost:24331
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.326 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:24331 for channel [id: 0x2aa497ba, L:/127.0.0.1:62077 - R:localhost/127.0.0.1:24331]
+Ä19:38:02.338 [AsyncHttpClient-1-2] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- Channel Closed: [id: 0x2aa497ba, L:/127.0.0.1:62077 ! R:localhost/127.0.0.1:24331] with attribute DISCARD
+Ó19:38:02.450 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to '/session'
+[19:38:02.754 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 348
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 891
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.755 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+×19:38:02.758 [AsyncHttpClient-1-6] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0x2c469d69, L:/127.0.0.1:62106 - R:localhost/127.0.0.1:62099]' for 'GET' to '/json/version'
+[19:38:02.759 [AsyncHttpClient-1-6] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+host: localhost:62099
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+0Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 430
+.Content-Type: application/json; charset=UTF-8
+
+Ï19:38:02.759 [AsyncHttpClient-1-6] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:62099 for channel [id: 0x2c469d69, L:/127.0.0.1:62106 - R:localhost/127.0.0.1:62099]
+€19:38:02.760 [AsyncHttpClient-1-7] DEBUG org.asynchttpclient.netty.channel.NettyConnectListener -- Using new Channel '[id: 0xc6e92e53, L:/127.0.0.1:62107 - R:localhost/127.0.0.1:62099]' for 'GET' to '/devtools/browser/17160552-bad4-42be-8302-dced89527030'
+`19:38:02.761 [AsyncHttpClient-1-7] DEBUG org.asynchttpclient.netty.handler.WebSocketHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+DGET /devtools/browser/17160552-bad4-42be-8302-dced89527030 HTTP/1.1
+upgrade: websocket
+connection: upgrade
+,sec-websocket-key: HHYHH3HrEz1RoAU5/wkIrg==
+sec-websocket-version: 13
+origin: http://localhost:62099
+host: localhost:62099
+accept: */*
+user-agent: AHC/2.1
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+*HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+3Sec-WebSocket-Accept: EujxuSBWWBHhNjhN/nhm0Sa0V/o=
+
+ WMay 16, 2025 7:38:02 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ 8WARNING: Unable to find CDP implementation matching 136
+ QMay 16, 2025 7:38:02 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+ õWARNING: Unable to find version of CDP to use for 136.0.7103.114. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+À19:38:02.763 [Forwarding get on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/url'
+¡19:38:02.763 [Forwarding get on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/url'
+[19:38:02.970 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+<POST /session/2586ea6367af70deb7183f77c9dc8e7b/url HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 91
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.970 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.971 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.971 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:02.976 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.976 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.977 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.977 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:02.981 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.982 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.982 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.982 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:02.987 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.987 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.988 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.988 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:02.992 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 63
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.992 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.992 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.992 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:02.996 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:02.996 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:02.997 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:02.997 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.000 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.000 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.001 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.001 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.005 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.005 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.006 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.006 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.010 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 125
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.010 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.010 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.010 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.015 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 59
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.015 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.015 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.015 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.020 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 63
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.020 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.020 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.020 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.024 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 61
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.025 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.025 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.025 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.029 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 62
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.029 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.029 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.029 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.033 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.033 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.034 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.034 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.037 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 71
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.037 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+¢19:38:03.039 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.9/value'
+ƒ19:38:03.039 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.9/value'
+[19:38:03.091 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.9/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 208
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.091 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.092 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.10/value'
+„19:38:03.092 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.10/value'
+[19:38:03.110 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.10/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 269
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.110 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.111 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.11/value'
+„19:38:03.111 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.11/value'
+[19:38:03.130 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.11/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 229
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.130 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+¢19:38:03.131 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.2/value'
+ƒ19:38:03.131 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.2/value'
+[19:38:03.145 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.2/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 148
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.145 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.148 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.14/value'
+„19:38:03.148 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.14/value'
+[19:38:03.169 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.14/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 249
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.169 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+19:38:03.170 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.4/click'
+þ19:38:03.170 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.4/click'
+[19:38:03.195 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.4/click HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 87
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.196 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+ž19:38:03.196 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.16/click'
+ÿ19:38:03.196 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.16/click'
+[19:38:03.219 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.16/click HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 88
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.219 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.220 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.19/value'
+„19:38:03.220 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.19/value'
+[19:38:03.225 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.19/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 149
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.225 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.226 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.17/value'
+„19:38:03.226 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.17/value'
+[19:38:03.253 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.17/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 239
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.254 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+£19:38:03.256 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.20/value'
+„19:38:03.256 [Forwarding sendKeysToElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.20/value'
+[19:38:03.268 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.20/value HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 133
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.268 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ž19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:24331 : 1
+Ì19:38:03.269 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+Ž19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:62078 : 1
+­19:38:03.269 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+Ž19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:62099 : 1
+‰19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Adding Candidate expired Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 ! R:localhost/127.0.0.1:24331] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+¹19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closing Idle Channel [id: 0x2aa497ba, L:/127.0.0.1:62077 ! R:localhost/127.0.0.1:24331]
+‰19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Adding Candidate expired Channel [id: 0x1dc6e574, L:/127.0.0.1:62085 ! R:localhost/127.0.0.1:62078] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+¹19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closing Idle Channel [id: 0x1dc6e574, L:/127.0.0.1:62085 ! R:localhost/127.0.0.1:62078]
+‡19:38:03.269 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closed 2 connections out of 3 in 0 ms
+[19:38:03.271 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 65
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.271 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+ž19:38:03.272 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.21/click'
+ÿ19:38:03.272 [Forwarding clickElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.21/click'
+[19:38:03.290 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+‘POST /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.DFF58E9093F86AFA517CFC0D54ABC548.e.21/click HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 88
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.290 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ì19:38:03.292 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+­19:38:03.292 [Forwarding findElement on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/element'
+[19:38:03.340 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+@POST /session/2586ea6367af70deb7183f77c9dc8e7b/element HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 52
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 126
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.341 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ø19:38:03.342 [Forwarding isElementDisplayed on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'POST' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/execute/sync'
+¹19:38:03.342 [Forwarding isElementDisplayed on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for POST '/session/2586ea6367af70deb7183f77c9dc8e7b/execute/sync'
+[19:38:03.348 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+ERequest DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+EPOST /session/2586ea6367af70deb7183f77c9dc8e7b/execute/sync HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Content-Length: 48845
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.348 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+ž19:38:03.348 [Forwarding getElementText on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'GET' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.456DD69DF892CFC0877B6AD2AB17DD84.e.35/text'
+ÿ19:38:03.349 [Forwarding getElementText on session 2586ea6367af70deb7183f77c9dc8e7b to remote] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for GET '/session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.456DD69DF892CFC0877B6AD2AB17DD84.e.35/text'
+[19:38:03.354 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /session/2586ea6367af70deb7183f77c9dc8e7b/element/f.EA4FDA9F2372821C5AFB22A7D8063BBF.d.456DD69DF892CFC0877B6AD2AB17DD84.e.35/text HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+Cache-Control: no-cache
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 21
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.354 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+‘19:38:03.355 [Driver Command Executor] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using pooled Channel '[id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]' for 'DELETE' to 'http://localhost:42076/session/2586ea6367af70deb7183f77c9dc8e7b'
+É19:38:03.355 [AsyncHttpClient-1-7] DEBUG org.asynchttpclient.netty.handler.WebSocketHandler -- Channel Closed: [id: 0xc6e92e53, L:/127.0.0.1:62107 ! R:localhost/127.0.0.1:62099] with attribute DISCARD
+ò19:38:03.355 [Driver Command Executor] DEBUG org.asynchttpclient.netty.request.NettyRequestSender -- Using open Channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076] for DELETE '/session/2586ea6367af70deb7183f77c9dc8e7b'
+Ä19:38:03.360 [AsyncHttpClient-1-6] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- Channel Closed: [id: 0x2c469d69, L:/127.0.0.1:62106 ! R:localhost/127.0.0.1:62099] with attribute DISCARD
+[19:38:03.407 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- 
+
+bRequest DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+:DELETE /session/2586ea6367af70deb7183f77c9dc8e7b HTTP/1.1
+'User-Agent: selenium/4.11.0 (java mac)
+.Content-Type: application/json; charset=utf-8
+host: localhost:42076
+accept: */*
+
+GResponse DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 14
+.Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+Ï19:38:03.407 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.channel.ChannelManager -- Adding key: http://localhost:42076 for channel [id: 0xe6283281, L:/127.0.0.1:62098 - R:localhost/127.0.0.1:42076]
+Ä19:38:03.420 [AsyncHttpClient-1-5] DEBUG org.asynchttpclient.netty.handler.HttpHandler -- Channel Closed: [id: 0xe6283281, L:/127.0.0.1:62098 ! R:localhost/127.0.0.1:42076] with attribute DISCARD
